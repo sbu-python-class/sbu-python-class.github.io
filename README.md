@@ -1,2 +1,3 @@
 # sbu-python-class.github.io
-webpage redirect
+
+webpage redirect for the python class
